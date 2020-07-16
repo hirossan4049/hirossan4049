@@ -3,6 +3,12 @@
 ![age](https://img.shields.io/badge/age-15-brightgreen?style=flat)
 ![life](https://img.shields.io/badge/Life-Failing-red)
 
+
+```py
+import this
+
+print("I love Python!")
+```
 <!--
 **hirossan4049/hirossan4049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

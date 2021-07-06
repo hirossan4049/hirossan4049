@@ -4,8 +4,16 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=hirossan4049)](https://github.com/hirossan4049) -->
 
-なにもできません。
 
+```swift
+import Foundation
+
+let name = "hirossan4049"
+let mail = name + "@" + "gmail.com"
+
+let birthday = DateComponents(calendar: Calendar.current, year: 2005, month: 6, day: 22).date!
+let age = Calendar.current.dateComponents([.year], from: birthday, to: Date()).year!
+```
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirossan4049&layout=compact)](https://github.com/hirossan4049)
 

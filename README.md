@@ -1,7 +1,7 @@
 
 <!-- ![age](https://img.shields.io/badge/age-17-brightgreen) -->
-![life](https://img.shields.io/badge/Life-Failing-red)
-![License](https://img.shields.io/badge/License-NYSL-green)
+<!-- ![life](https://img.shields.io/badge/Life-Failing-red)
+![License](https://img.shields.io/badge/License-NYSL-green) -->
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=hirossan4049)](https://github.com/hirossan4049) -->

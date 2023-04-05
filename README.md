@@ -8,8 +8,7 @@
 
 
 ```swift
-let name = "hirossan4049"
-let mail = name + "@" + "gmail.com"
+let mail = "dev" + "@" + "h1rose.com"
 ```
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirossan4049&layout=compact)](https://github.com/hirossan4049)

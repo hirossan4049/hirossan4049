@@ -8,8 +8,11 @@
 
 
 ```swift
+let noob: [Language] = [.ruby, .typescript, .python]
+let barely: [Language] = [.swift]
 let mail = "dev" + "@" + "h1rose.com"
 ```
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirossan4049&layout=compact)](https://github.com/hirossan4049)
 

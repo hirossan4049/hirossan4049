@@ -8,7 +8,10 @@
 
 
 ```swift
-let mail = "hi" + "@" + "h1rose.com"
+let mail = [
+ "hi" + "@" + "h1rose.com",
+ "hi" + "@" + "starthype.co.jp"
+]
 ```
 
 
